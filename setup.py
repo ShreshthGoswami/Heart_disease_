@@ -4,7 +4,7 @@ from typing import List
 
 def get_requirements()->List[str]:
 
-    requirements=List[str]=[]
+    requirements:List[str]=[]
     return requirements
 
 
